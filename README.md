@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### I am a software engineer skilled in full stack web development. I have a background in front end brokerage financial services and worked as a stock broker for 4 years.
+##### I am a software engineer skilled in full stack web development and financial APIs. I have a background in front end brokerage financial services and worked as a stock broker for 4 years. My interests lie in building financial and trading based algorithms and want to work in the backend development for a financial firm.
 
 <!--
 **gr8tscott/gr8tscott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
